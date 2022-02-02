@@ -1,7 +1,7 @@
 - 👋 Hi, I’m **Phillip** @kaungmyat-htet
 - 👀 I’m interested in backend development (Go, Java).
 - 🌱 I’m currently learning golang.
-- 💞️ I’m looking to collaborate on Golang projects.
+- 💞️ I’m looking to collaborate on Java or Golang projects.
 - 📫 How to reach me via Mail (kaungmyathtet.info@gmail.com) or Twitter (@kgmyat_)
 
 <!---
