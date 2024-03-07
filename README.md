@@ -1,4 +1,4 @@
--  Hi, I’m **Ted** @kaungmyat-htet
+-  မင်္ဂလာပါ။ Hi, I’m **Ted** @kaungmyat-htet
 -  I’m interested in backend development (Python, Java).
 -  You can reach me via Mail (kaungmyathtet.dev@gmail.com).
 
